@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtualenv
+venv/
+
+# Banco SQLite (gerado em tempo de execução)
+db/tcc.sqlite3
+
+# VS Code
+.vscode/

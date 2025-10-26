@@ -1,0 +1,59 @@
+id,ambiente_id,nome
+SET-P1-PORT,AMB-P1,Portões e Acessos
+SET-P2-PORT,AMB-P2,Portões e Acessos
+SET-EST-GERAL,AMB-EST,Iluminação/Letreiro/Postes
+
+SET-F1-CUB,AMB-F1,Cubículo de Energia
+SET-F1-SUB,AMB-F1,Subestação (entrada concessionária)
+SET-F1-QTA,AMB-F1,Q.T.A (distribuição BT)
+SET-F1-BOMB,AMB-F1,Casa de Bombas (combate incêndio)
+SET-F1-GER,AMB-F1,Pátio dos Geradores (2x STEMAC)
+SET-F1-DOCASEC,AMB-F1,Doca Seca (carregadores/porta de lona)
+SET-F1-PROD,AMB-F1,Produção
+SET-F1-PES,AMB-F1,Sala de Pesagem
+SET-F1-DEFER,AMB-F1,Depósito de Fermento
+SET-F1-TUN,AMB-F1,Túneis de Congelamento
+SET-F1-EMB,AMB-F1,Embalagem
+SET-F1-CFRIA,AMB-F1,Câmara Fria
+SET-F1-DOCAEXP,AMB-F1,Doca de Expedição (portas/rampas)
+SET-F1-SM,AMB-F1,Sala de Máquinas (compressores/torres)
+SET-F1-FORRO,AMB-F1,Forro (quadros/reservatórios/condensadoras)
+
+SET-F2-PROD,AMB-F2,Produção
+SET-F2-EMB,AMB-F2,Embalagem
+SET-F2-CFRIA,AMB-F2,Câmara Fria
+SET-F2-EXP,AMB-F2,Expedição (Docas 2–14)
+SET-F2-RECEB,AMB-F2,Recebimento (Farinha/Iluminação/Docas)
+SET-F2-SILOS,AMB-F2,Casa de Silos
+SET-F2-DOCASEC,AMB-F2,Doca Seca
+SET-F2-MICRO,AMB-F2,Micro Ingrediente
+SET-F2-CFERM,AMB-F2,Câmara de Fermento
+SET-F2-QTA,AMB-F2,Q.T.A (Distribuição)
+SET-F2-SUB,AMB-F2,Subestação
+SET-F2-SPAIN,AMB-F2,Sala de Painéis
+SET-F2-SM,AMB-F2,Sala de Máquinas
+SET-F2-SM-MEZ,AMB-F2,Mezanino da Sala de Máquinas
+SET-F2-BOMB,AMB-F2,Casa de Bombas
+SET-F2-GER,AMB-F2,Pátio dos Geradores
+
+SET-F3-ADM,AMB-F3,Administrativo (Acesso/Sala de Visitas)
+SET-F3-PROD,AMB-F3,Produção
+SET-F3-EMB,AMB-F3,Embalagem
+SET-F3-CFRIA,AMB-F3,Câmara Fria
+SET-F3-EXP,AMB-F3,Expedição
+SET-F3-RECEB,AMB-F3,Recebimento
+SET-F3-SILOS,AMB-F3,Casa de Silos
+SET-F3-DOCASEC,AMB-F3,Doca Seca
+SET-F3-MICRO,AMB-F3,Micro Ingrediente
+SET-F3-CFERM,AMB-F3,Câmara de Fermento
+SET-F3-QTA,AMB-F3,Q.T.A
+SET-F3-SUB,AMB-F3,Subestação
+SET-F3-SPAIN,AMB-F3,Sala de Painéis
+SET-F3-SM,AMB-F3,Sala de Máquinas
+SET-F3-SM-MEZ,AMB-F3,Mezanino da Sala de Máquinas
+SET-F3-BOMB,AMB-F3,Casa de Bombas
+SET-F3-GER,AMB-F3,Pátio dos Geradores
+
+SET-AR3-GERAL,AMB-AR3,Operações Gerais
+SET-ETE-GERAL,AMB-ETE,Tratamento de Efluentes
+SET-OFI-GERAL,AMB-OFI,Oficina (Geral)
