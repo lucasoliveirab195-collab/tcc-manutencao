@@ -1,0 +1,314 @@
+id,linha_id,nome,descricao
+EQ-P1-PORT-ENT,LIN-P1-PORT,Portão Automático de Acesso de Veículos,Portão principal da Portaria 1
+EQ-P1-PORT-DESC,LIN-P1-PORT,Portão Automático de Descarregamento,Acesso de caminhões para descarregamento (P1)
+
+EQ-P2-PORT-ENT,LIN-P2-PORT,Portão Automático de Entrada/Saída de Funcionários,Portaria 2 (pedestres/veículos leves)
+
+EQ-EST-LETREIRO,LIN-EST-GERAL,Letreiro com Logo da Empresa,Letreiro iluminado da entrada do estacionamento
+EQ-EST-POSTE1,LIN-EST-GERAL,Poste de Iluminação 1,Estacionamento
+EQ-EST-POSTE2,LIN-EST-GERAL,Poste de Iluminação 2,Estacionamento
+EQ-EST-POSTE3,LIN-EST-GERAL,Poste de Iluminação 3,Estacionamento
+
+
+EQ-F1-01,LIN-F1-PROD,Masseira Progresso,
+EQ-F1-02,LIN-F1-PROD,Cilindro Progresso,
+EQ-F1-GA500-RONDO,LIN-F1-PROD,GA-500 Rondo,
+EQ-F1-GA500-PROG,LIN-F1-PROD,GA-500 Progresso,
+EQ-F1-PES-BAL,LIN-F1-PES,Balanças,Sala de Pesagem
+EQ-F1-DEF-EVP,LIN-F1-DEFER,Evaporadora,Depósito de fermento
+EQ-F1-TUN-EVP1,LIN-F1-TUN,Evaporadora túnel 1,Com resistências
+EQ-F1-TUN-EVP2,LIN-F1-TUN,Evaporadora túnel 2,Com resistências
+EQ-F1-EMB-EMB1,LIN-F1-EMB,Embaladeira 1,
+EQ-F1-EMB-EMB2,LIN-F1-EMB,Embaladeira 2,
+EQ-F1-EMB-TEC1,LIN-F1-EMB,Seladora de Pacotes TECMAES 1,
+EQ-F1-EMB-TEC2,LIN-F1-EMB,Seladora de Pacotes TECMAES 2,
+EQ-F1-EMB-ENCX,LIN-F1-EMB,Encaixotadora,
+EQ-F1-EMB-SELCAIXA,LIN-F1-EMB,Seladora de Caixas,
+EQ-F1-EMB-EVP,LIN-F1-EMB,Evaporadora,Área de embalagem
+EQ-F1-CFRIA-EVP1,LIN-F1-CFRIA,Evaporadora câmara fria 1,
+EQ-F1-CFRIA-EVP2,LIN-F1-CFRIA,Evaporadora câmara fria 2,
+EQ-F1-DOCASEC-PORTA,LIN-F1-DOCASEC,Porta de lona (doca seca),
+EQ-F1-DOCASEC-CARG,LIN-F1-DOCASEC,Carregadores de bateria,
+EQ-F1-DOCAEXP-PORTA,LIN-F1-DOCAEXP,Portas de lona (doca expedição),
+EQ-F1-DOCAEXP-RAMPA,LIN-F1-DOCAEXP,Rampas de acionamento,
+EQ-F1-SM-COMP,LIN-F1-SM,Compressores dos túneis,
+EQ-F1-SM-TORRES,LIN-F1-SM,Torres de congelamento,
+EQ-F1-FORRO-QUADROS,LIN-F1-FORRO,Quadros de resistências,
+EQ-F1-FORRO-CAIXAAGUA,LIN-F1-FORRO,Caixas d'água e condensadoras,
+EQ-F1-GER-01,LIN-F1-GER,Gerador STEMAC 1,
+EQ-F1-GER-02,LIN-F1-GER,Gerador STEMAC 2,
+EQ-F1-BOMB-01,LIN-F1-BOMB,Bomba de incêndio 1,
+EQ-F1-BOMB-02,LIN-F1-BOMB,Bomba de incêndio 2,
+
+EQ-F2-L1-RAD,LIN-F2-L1,Linha de Modelagem Rademaker,Andar 0 – painel potência/comando
+EQ-F2-L1-MASS1,LIN-F2-L1,Masseira 1,Andar 0 – painel potência
+EQ-F2-L1-MASS2,LIN-F2-L1,Masseira 2,Andar 0 – painel potência
+EQ-F2-L1-CMD-MASS,LIN-F2-L1,Painel de Comando das Masseiras,Andar 0
+EQ-F2-L1-GFREEZ,LIN-F2-L1,Girofreezer,Andar 0 – potência/comando
+EQ-F2-L1-PULM,LIN-F2-L1,Pulmões das Masseiras,Andar 1 – sensores/válvulas
+EQ-F2-L1-PURG,LIN-F2-L1,Painéis de Purga,Andar 2 – 1 por masseira
+
+EQ-F2-L2-RAD,LIN-F2-L2,Linha de Modelagem Rademaker,Andar 0 – painel potência/comando
+EQ-F2-L2-MASS1,LIN-F2-L2,Masseira 1,Andar 0 – painel potência
+EQ-F2-L2-MASS2,LIN-F2-L2,Masseira 2,Andar 0 – painel potência
+EQ-F2-L2-CMD-MASS,LIN-F2-L2,Painel de Comando das Masseiras,Andar 0
+EQ-F2-L2-GFREEZ,LIN-F2-L2,Girofreezer,Andar 0 – potência/comando
+EQ-F2-L2-PULM,LIN-F2-L2,Pulmões das Masseiras,Andar 1 – sensores/válvulas
+EQ-F2-L2-PURG,LIN-F2-L2,Painéis de Purga,Andar 2 – 1 por masseira
+
+EQ-F2-L3-RAD,LIN-F2-L3,Linha de Modelagem Rademaker,Andar 0 – painel potência/comando
+EQ-F2-L3-MASS1,LIN-F2-L3,Masseira 1,Andar 0 – painel potência
+EQ-F2-L3-MASS2,LIN-F2-L3,Masseira 2,Andar 0 – painel potência
+EQ-F2-L3-CMD-MASS,LIN-F2-L3,Painel de Comando das Masseiras,Andar 0
+EQ-F2-L3-GFREEZ,LIN-F2-L3,Girofreezer,Andar 0 – potência/comando
+EQ-F2-L3-PULM,LIN-F2-L3,Pulmões das Masseiras,Andar 1 – sensores/válvulas
+EQ-F2-L3-PURG,LIN-F2-L3,Painéis de Purga,Andar 2 – 1 por masseira
+
+EQ-F2-EMB-EST-SAI,LIN-F2-EMB,Esteiras de Saída do Girofreezer,Transferência
+EQ-F2-EMB-EST-BR,LIN-F2-EMB,Esteiras Brancas de Transporte,Até embaladeiras
+EQ-F2-EMB-EMB1,LIN-F2-EMB,Embaladeira 1,Atende L1 e L2
+EQ-F2-EMB-EMB2,LIN-F2-EMB,Embaladeira 2,Atende L1 e L2
+EQ-F2-EMB-EMB3,LIN-F2-EMB,Embaladeira 3,Atende L1 e L2
+EQ-F2-EMB-EMB4,LIN-F2-EMB,Embaladeira 4,Atende L3
+EQ-F2-EMB-EMB5,LIN-F2-EMB,Embaladeira 5,Atende L3
+EQ-F2-EMB-DET1,LIN-F2-EMB,Detector de Metais 1,Atende L1 e L2
+EQ-F2-EMB-DET2,LIN-F2-EMB,Detector de Metais 2,Atende L3
+EQ-F2-EMB-ARM-CAIXA,LIN-F2-EMB,Armadeira de Caixas,
+EQ-F2-EMB-SEL-CAIXA,LIN-F2-EMB,Seladora de Caixas,
+EQ-F2-EMB-ENCX,LIN-F2-EMB,Encaixotadora,
+EQ-F2-EMB-DAT-INK,LIN-F2-EMB,Datadora Inkjet,
+EQ-F2-EMB-DAT-MARK,LIN-F2-EMB,Datadora Markem-Imaje,
+EQ-F2-EMB-ROBO,LIN-F2-EMB,Robô Paletizador,
+EQ-F2-EMB-STRETCH,LIN-F2-EMB,Estrechador de Paletes,
+EQ-F2-EMB-BAL-PAL,LIN-F2-EMB,Balança de Paletes,
+EQ-F2-EMB-PORTA,LIN-F2-EMB,Porta Automática de Lona,Acesso à câmara fria
+
+EQ-F2-CFRIA-EVP1,LIN-F2-CFRIA,Evaporadora 1,
+EQ-F2-CFRIA-EVP2,LIN-F2-CFRIA,Evaporadora 2,
+
+EQ-F2-EXP-RAMPAS,LIN-F2-EXP,Rampas 2 a 14,1 não utilizada
+EQ-F2-EXP-PORTAS,LIN-F2-EXP,Portas de Docas 2 a 14,
+EQ-F2-EXP-CARBAT,LIN-F2-EXP,Carregadores de Bateria,
+EQ-F2-EXP-PNL-EVP,LIN-F2-EXP,Painéis das Evaporadoras,
+EQ-F2-EXP-CORT-AR,LIN-F2-EXP,Cortinas de Ar,2 portas acesso CF
+
+EQ-F2-REC-ATER,LIN-F2-RECEB,Sistema de Aterramento,Caminhões de farinha
+EQ-F2-REC-MOEGA,LIN-F2-RECEB,Moega de Farinha,
+EQ-F2-REC-TALHA,LIN-F2-RECEB,Talha,
+EQ-F2-REC-PNL-BAL,LIN-F2-RECEB,Painel das Balanças dos Silos,
+EQ-F2-REC-ILUM,LIN-F2-RECEB,Painel de Iluminação F2,Rampas/portas/tomadas expedição
+
+EQ-F2-SIL-COMP1,LIN-F2-SILOS,Compressor de Ar (Silos),
+EQ-F2-SIL-SOP1,LIN-F2-SILOS,Soprador de Farinha (Silos),
+EQ-F2-SIL-ATER,LIN-F2-SILOS,Sistema de Aterramento dos Silos,
+EQ-F2-SIL-SILO1,LIN-F2-SILOS,Silos de Farinha (1–9),Roscas por silo
+EQ-F2-SIL-BAL-L1,LIN-F2-SILOS,Balança de Farinha L1,
+EQ-F2-SIL-BAL-L2,LIN-F2-SILOS,Balança de Farinha L2,
+EQ-F2-SIL-BAL-L3,LIN-F2-SILOS,Balança de Farinha L3,
+EQ-F2-SIL-MVIB,LIN-F2-SILOS,Motovibradores dos Silos,Dois por silo
+
+EQ-F2-DOCA-PORTA,LIN-F2-DOCASEC,Porta de Lona KOPRON,
+
+EQ-F2-MIC-TALHA,LIN-F2-MICRO,Talha,
+EQ-F2-MIC-CARBAT,LIN-F2-MICRO,Carregadores de Bateria,
+
+EQ-F2-CFERM-EVP,LIN-F2-CFERM,Evaporadora (Câmara de Fermento),
+
+EQ-F2-QTA-DIST,LIN-F2-QTA,Painéis de Distribuição F2,
+EQ-F2-SUB-ENT,LIN-F2-SUB,Entrada de Energia (Concessionária),
+EQ-F2-SP-ARMDOS,LIN-F2-SPAIN,Painel Armazenamento/Dosagem Farinha (Ampla),
+EQ-F2-SP-BAL,LIN-F2-SPAIN,Painel das Balanças das Linhas,
+EQ-F2-SP-SOP,LIN-F2-SPAIN,Painel dos Sopradores,
+EQ-F2-SP-IHM,LIN-F2-SPAIN,IHM de Controle dos Sopradores,
+
+EQ-F2-SM-COMP-L1A,LIN-F2-SM,Compressor Congelamento L1-A,
+EQ-F2-SM-COMP-L1B,LIN-F2-SM,Compressor Congelamento L1-B,
+EQ-F2-SM-COMP-L1C,LIN-F2-SM,Compressor Congelamento L1-C,
+EQ-F2-SM-COMP-L1D,LIN-F2-SM,Compressor Congelamento L1-D,
+EQ-F2-SM-COMP-L2A,LIN-F2-SM,Compressor Congelamento L2-A,
+EQ-F2-SM-COMP-L2B,LIN-F2-SM,Compressor Congelamento L2-B,
+EQ-F2-SM-COMP-L2C,LIN-F2-SM,Compressor Congelamento L2-C,
+EQ-F2-SM-COMP-L2D,LIN-F2-SM,Compressor Congelamento L2-D,
+EQ-F2-SM-COMP-L3A,LIN-F2-SM,Compressor Congelamento L3-A,
+EQ-F2-SM-COMP-L3B,LIN-F2-SM,Compressor Congelamento L3-B,
+EQ-F2-SM-COMP-L3C,LIN-F2-SM,Compressor Congelamento L3-C,
+EQ-F2-SM-COMP-L3D,LIN-F2-SM,Compressor Congelamento L3-D,
+EQ-F2-SM-TANQ,LIN-F2-SM,Tanques de Água Gelada (6),
+EQ-F2-SM-IHM-TANQ,LIN-F2-SM,IHM Controle Tanques AG,
+EQ-F2-SM-COMP-AR,LIN-F2-SM,Compressores de Ar (5),
+EQ-F2-SM-TORRES,LIN-F2-SM,Torres de Congelamento L1–L3,
+EQ-F2-SM-CTRL-NIV-TR,LIN-F2-SM,Painel Controle Nível Torres,
+EQ-F2-SM-DOSE-CL,LIN-F2-SM,Bombas Dosadoras de Cloro,
+EQ-F2-SM-PFUS,LIN-F2-SM,Painel Porta-fusíveis,
+EQ-F2-SM-MEZ-COND,LIN-F2-SM-MEZ,Condensadoras dos Tanques AG,
+
+EQ-F2-BOMB-INC,LIN-F2-BOMB,Bombas de Combate a Incêndio,
+EQ-F2-BOMB-BOIA,LIN-F2-BOMB,Painel da Boia de Nível,
+EQ-F2-BOMB-REPRAD,LIN-F2-BOMB,Repetidora dos Rádios de Comunicação,
+
+EQ-F2-GER-01,LIN-F2-GER,Gerador 1 (STEMAC),
+EQ-F2-GER-02,LIN-F2-GER,Gerador 2 (STEMAC),
+EQ-F2-GER-03,LIN-F2-GER,Gerador 3 (STEMAC),
+EQ-F2-GER-04,LIN-F2-GER,Gerador 4 (STEMAC),
+EQ-F2-GER-05,LIN-F2-GER,Gerador 5 (STEMAC),
+EQ-F2-GER-06,LIN-F2-GER,Gerador 6 (STEMAC),
+EQ-F2-GER-BOMDIE,LIN-F2-GER,Bomba de Diesel dos Geradores,
+
+EQ-F3-ADM-PORTA1,LIN-F3-ADM,Porta Automática de Entrada 1,Acesso administrativo (painel na sala de visitas)
+EQ-F3-ADM-PORTA2,LIN-F3-ADM,Porta Automática de Entrada 2,Acesso administrativo (painel na sala de visitas)
+
+EQ-F3-L4-RAD,LIN-F3-L4,Linha de Modelagem Rademaker,Andar 0 – painel potência/comando
+EQ-F3-L4-MASS1,LIN-F3-L4,Masseira 1,Andar 0 – painel potência
+EQ-F3-L4-MASS2,LIN-F3-L4,Masseira 2,Andar 0 – painel potência
+EQ-F3-L4-CMD-MASS,LIN-F3-L4,Painel de Comando das Masseiras,Andar 0
+EQ-F3-L4-GFREEZ,LIN-F3-L4,Girofreezer,Andar 0 – potência/comando
+EQ-F3-L4-PULM,LIN-F3-L4,Pulmões das Masseiras,Andar 1 – sensores/válvulas
+EQ-F3-L4-PURG,LIN-F3-L4,Painéis de Purga,Andar 2 – 1 por masseira
+
+EQ-F3-L5-RAD,LIN-F3-L5,Linha de Modelagem Rademaker,Andar 0 – painel potência/comando
+EQ-F3-L5-MASS1,LIN-F3-L5,Masseira 1,Andar 0 – painel potência
+EQ-F3-L5-MASS2,LIN-F3-L5,Masseira 2,Andar 0 – painel potência
+EQ-F3-L5-CMD-MASS,LIN-F3-L5,Painel de Comando das Masseiras,Andar 0
+EQ-F3-L5-GFREEZ,LIN-F3-L5,Girofreezer,Andar 0 – potência/comando
+EQ-F3-L5-PULM,LIN-F3-L5,Pulmões das Masseiras,Andar 1 – sensores/válvulas
+EQ-F3-L5-PURG,LIN-F3-L5,Painéis de Purga,Andar 2 – 1 por masseira
+
+EQ-F3-L6-RAD,LIN-F3-L6,Linha de Modelagem Rademaker,Andar 0 – painel potência/comando
+EQ-F3-L6-MASS1,LIN-F3-L6,Masseira 1,Andar 0 – painel potência
+EQ-F3-L6-MASS2,LIN-F3-L6,Masseira 2,Andar 0 – painel potência
+EQ-F3-L6-CMD-MASS,LIN-F3-L6,Painel de Comando das Masseiras,Andar 0
+EQ-F3-L6-GFREEZ,LIN-F3-L6,Girofreezer,Andar 0 – potência/comando
+EQ-F3-L6-PULM,LIN-F3-L6,Pulmões das Masseiras,Andar 1 – sensores/válvulas
+EQ-F3-L6-PURG,LIN-F3-L6,Painéis de Purga,Andar 2 – 1 por masseira
+
+EQ-F3-L7-RAD,LIN-F3-L7,Linha de Modelagem Rademaker,Andar 0 – painel potência/comando
+EQ-F3-L7-MASS1,LIN-F3-L7,Masseira 1,Andar 0 – painel potência
+EQ-F3-L7-MASS2,LIN-F3-L7,Masseira 2,Andar 0 – painel potência
+EQ-F3-L7-CMD-MASS,LIN-F3-L7,Painel de Comando das Masseiras,Andar 0
+EQ-F3-L7-GFREEZ,LIN-F3-L7,Girofreezer,Andar 0 – potência/comando
+EQ-F3-L7-PULM,LIN-F3-L7,Pulmões das Masseiras,Andar 1 – sensores/válvulas
+EQ-F3-L7-PURG,LIN-F3-L7,Painéis de Purga,Andar 2 – 1 por masseira
+
+EQ-F3-EMB-EMB6,LIN-F3-EMB,Embaladeira 6,Atende L4 e L5
+EQ-F3-EMB-EMB7,LIN-F3-EMB,Embaladeira 7,Atende L4 e L5
+EQ-F3-EMB-EMB8,LIN-F3-EMB,Embaladeira 8,Atende L4 e L5
+EQ-F3-EMB-EMB9,LIN-F3-EMB,Embaladeira 9,Atende L6 e L7
+EQ-F3-EMB-EMB10,LIN-F3-EMB,Embaladeira 10,Atende L6 e L7
+EQ-F3-EMB-EMB11,LIN-F3-EMB,Embaladeira 11,Atende L6 e L7
+EQ-F3-EMB-EST,LIN-F3-EMB,Esteiras de Transferência,Girofreezer→embalagem
+EQ-F3-EMB-DET1,LIN-F3-EMB,Detector de Metais 1,Atende L4 e L5
+EQ-F3-EMB-DET2,LIN-F3-EMB,Detector de Metais 2,Atende L6 e L7
+EQ-F3-EMB-ARM,LIN-F3-EMB,Armadeira de Caixas,
+EQ-F3-EMB-SELCAIXA,LIN-F3-EMB,Seladora de Caixas,
+EQ-F3-EMB-ENCX,LIN-F3-EMB,Encaixotadora,
+EQ-F3-EMB-DAT-INK,LIN-F3-EMB,Datadora Inkjet,
+EQ-F3-EMB-DAT-MARK,LIN-F3-EMB,Datadora Markem-Imaje,
+EQ-F3-EMB-ROBO1,LIN-F3-EMB,Robô Paletizador 1,
+EQ-F3-EMB-ROBO2,LIN-F3-EMB,Robô Paletizador 2,
+EQ-F3-EMB-STRETCH,LIN-F3-EMB,Estrechador de Paletes,
+EQ-F3-EMB-PORTA1,LIN-F3-EMB,Porta de Lona Rayflex 1,
+EQ-F3-EMB-PORTA2,LIN-F3-EMB,Porta de Lona Rayflex 2,
+
+EQ-F3-CFRIA-EVP1,LIN-F3-CFRIA,Evaporadora 1,
+EQ-F3-CFRIA-EVP2,LIN-F3-CFRIA,Evaporadora 2,
+
+EQ-F3-EXP-PORT-CF1,LIN-F3-EXP,Porta Automática Acesso CF 1,Com cortina de ar
+EQ-F3-EXP-PORT-CF2,LIN-F3-EXP,Porta Automática Acesso CF 2,Com cortina de ar
+EQ-F3-EXP-PORT-CF3,LIN-F3-EXP,Porta Automática Acesso CF 3,Com cortina de ar
+EQ-F3-EXP-CORT1,LIN-F3-EXP,Cortina de Ar 1,Acesso CF
+EQ-F3-EXP-CORT2,LIN-F3-EXP,Cortina de Ar 2,Acesso CF
+EQ-F3-EXP-CORT3,LIN-F3-EXP,Cortina de Ar 3,Acesso CF
+EQ-F3-EXP-PORTAS,LIN-F3-EXP,Portas de Docas (8),
+EQ-F3-EXP-RAMPAS,LIN-F3-EXP,Rampas (8),
+EQ-F3-EXP-PNL-RP,LIN-F3-EXP,Painéis Controle Docas/Rampas,
+
+EQ-F3-MIC-ROSC-SAL,LIN-F3-MICRO,Roscas de Sal (por linha),
+EQ-F3-MIC-TALHA,LIN-F3-MICRO,Talha,
+
+EQ-F3-CFERM-EVP,LIN-F3-CFERM,Evaporadora (Câmara de Fermento),
+
+EQ-F3-REC-TALHA,LIN-F3-RECEB,Talha,
+EQ-F3-REC-ATER,LIN-F3-RECEB,Sistema de Aterramento,Caminhões farinha
+EQ-F3-REC-MOEGA,LIN-F3-RECEB,Moega de Farinha,
+EQ-F3-REC-ILUM-LET,LIN-F3-RECEB,Painel Iluminação Letreiro F3,
+EQ-F3-REC-IHM-SILOS,LIN-F3-RECEB,IHM de Nível dos Silos,
+
+EQ-F3-SIL-SILOS12,LIN-F3-SILOS,Silos de Farinha (12),Sensores/roscas/motovibradores
+EQ-F3-SIL-MVIB,LIN-F3-SILOS,Motovibradores dos Silos,2 por silo
+EQ-F3-SIL-SENS,LIN-F3-SILOS,Sensores de Nível dos Silos,
+EQ-F3-SIL-BAL-L4,LIN-F3-SILOS,Balança de Farinha L4,
+EQ-F3-SIL-BAL-L5,LIN-F3-SILOS,Balança de Farinha L5,
+EQ-F3-SIL-BAL-L6,LIN-F3-SILOS,Balança de Farinha L6,
+EQ-F3-SIL-BAL-L7,LIN-F3-SILOS,Balança de Farinha L7,
+
+EQ-F3-DOCA-PORTA,LIN-F3-DOCASEC,Porta de Lona KOPRON,
+EQ-F3-DOCA-RAMPA,LIN-F3-DOCASEC,Rampa (1),
+EQ-F3-DOCA-ELEV,LIN-F3-DOCASEC,Elevador,
+
+EQ-F3-CUB,LIN-F3-QTA,Cubículo de Energia F3,Conforme F1
+EQ-F3-QTA-DIST,LIN-F3-QTA,Painéis de Distribuição F3,
+EQ-F3-SUB-ENT,LIN-F3-SUB,Subestação F3,Distribuição
+
+EQ-F3-SP-ARMDOS,LIN-F3-SPAIN,Painel Armazenamento/Dosagem Farinha (Ampla),
+EQ-F3-SP-INV-ROS,LIN-F3-SPAIN,Painel de Inversores das Roscas,
+EQ-F3-SP-RES-CF1,LIN-F3-SPAIN,Painel Resistências Câmara Fria 1,
+EQ-F3-SP-RES-CF2,LIN-F3-SPAIN,Painel Resistências Câmara Fria 2,
+EQ-F3-SP-CLIM-EVP,LIN-F3-SPAIN,Painel Climatização Evaporadora,
+EQ-F3-SP-BOMB-TOR,LIN-F3-SPAIN,Painel Bombas Torres Congelamento,
+EQ-F3-SP-GERAL-CF,LIN-F3-SPAIN,Painel Geral Câmara Fria,
+EQ-F3-SP-QGBT,LIN-F3-SPAIN,Quadro Geral de Baixa Tensão,
+EQ-F3-SP-NB-CPD,LIN-F3-SPAIN,Painel Nobreak CPD F3,
+EQ-F3-SP-REM-CLP,LIN-F3-SPAIN,Painel Remoto 01 CLP Armaz./Dosagem,
+
+EQ-F3-SM-COMP-L4A,LIN-F3-SM,Compressor Congelamento L4-A,
+EQ-F3-SM-COMP-L4B,LIN-F3-SM,Compressor Congelamento L4-B,
+EQ-F3-SM-COMP-L4C,LIN-F3-SM,Compressor Congelamento L4-C,
+EQ-F3-SM-COMP-L4D,LIN-F3-SM,Compressor Congelamento L4-D,
+EQ-F3-SM-COMP-L5A,LIN-F3-SM,Compressor Congelamento L5-A,
+EQ-F3-SM-COMP-L5B,LIN-F3-SM,Compressor Congelamento L5-B,
+EQ-F3-SM-COMP-L5C,LIN-F3-SM,Compressor Congelamento L5-C,
+EQ-F3-SM-COMP-L5D,LIN-F3-SM,Compressor Congelamento L5-D,
+EQ-F3-SM-COMP-L6A,LIN-F3-SM,Compressor Congelamento L6-A,
+EQ-F3-SM-COMP-L6B,LIN-F3-SM,Compressor Congelamento L6-B,
+EQ-F3-SM-COMP-L6C,LIN-F3-SM,Compressor Congelamento L6-C,
+EQ-F3-SM-COMP-L6D,LIN-F3-SM,Compressor Congelamento L6-D,
+EQ-F3-SM-COMP-L7A,LIN-F3-SM,Compressor Congelamento L7-A,
+EQ-F3-SM-COMP-L7B,LIN-F3-SM,Compressor Congelamento L7-B,
+EQ-F3-SM-COMP-L7C,LIN-F3-SM,Compressor Congelamento L7-C,
+EQ-F3-SM-COMP-L7D,LIN-F3-SM,Compressor Congelamento L7-D,
+EQ-F3-SM-TANQ,LIN-F3-SM,Tanques de Água Gelada,
+EQ-F3-SM-CHILL1-MAS,LIN-F3-SM,Painel Chiller 1 Masseira,
+EQ-F3-SM-CHILL2-MAS,LIN-F3-SM,Painel Chiller 2 Masseira,
+EQ-F3-SM-CHILL-MAS,LIN-F3-SM,Painel Chiller Masseira,
+EQ-F3-SM-CHILL-CLIM,LIN-F3-SM,Painel Chiller 4 Climatização,
+EQ-F3-SM-SKID-CF1,LIN-F3-SM,Painel Skid CF 1 (Compressor CF1),
+EQ-F3-SM-SKID-CF2,LIN-F3-SM,Painel Skid CF 2 (Compressor CF2),
+EQ-F3-SM-CHILL-CMD,LIN-F3-SM,Painel Chiller Comando,
+
+EQ-F3-SM-MEZ-SOP-AT,LIN-F3-SM-MEZ,Sopradores Atlas Copco (2),
+EQ-F3-SM-MEZ-SOP-ROB,LIN-F3-SM-MEZ,Sopradores Robuschi (4),1 por linha
+EQ-F3-SM-MEZ-TORRES,LIN-F3-SM-MEZ,Torres Congelamento (4×2 vent),
+EQ-F3-SM-MEZ-COMP-SC,LIN-F3-SM-MEZ,Compressores Secadores Schultz (4),
+EQ-F3-SM-MEZ-CHILL-FERM,LIN-F3-SM-MEZ,Painel Chiller Fermento,
+EQ-F3-SM-MEZ-TANQ,LIN-F3-SM-MEZ,Painel Tanques Água Gelada,
+EQ-F3-SM-MEZ-ALP,LIN-F3-SM-MEZ,Painel Abastecimento Torres Alpinas,
+
+EQ-F3-GER-01,LIN-F3-GER,Gerador 1,
+EQ-F3-GER-02,LIN-F3-GER,Gerador 2,
+EQ-F3-GER-03,LIN-F3-GER,Gerador 3,
+EQ-F3-GER-04,LIN-F3-GER,Gerador 4,
+EQ-F3-GER-05,LIN-F3-GER,Gerador 5,
+EQ-F3-GER-06,LIN-F3-GER,Gerador 6,
+EQ-F3-GER-07,LIN-F3-GER,Gerador 7,
+EQ-F3-GER-08,LIN-F3-GER,Gerador 8,
+
+EQ-F3-BOMB-INC,LIN-F3-BOMB,Bombas de Combate a Incêndio,
+EQ-F3-BOMB-BOIA,LIN-F3-BOMB,Painel da Boia da Caixa d'Água,
+
+EQ-ETE-PAINEL,LIN-ETE-GERAL,Painel de Acompanhamento das Fossas,ETE
+EQ-AR3-TALHA,LIN-AR3-GERAL,Talha,Área 3
+EQ-AR3-RESIST,LIN-AR3-GERAL,Resistências dos Tanques,Área 3
+EQ-AR3-BOMB,LIN-AR3-GERAL,Bombas do Lavador,Área 3
+EQ-AR3-ELEV,LIN-AR3-GERAL,Elevador de Cargas,Área 3
+
+EQ-OFI-FOSSA,LIN-OFI-GERAL,Painel das Boias da Fossa da Fábrica 3,Oficina

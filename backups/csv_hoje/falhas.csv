@@ -1,0 +1,10 @@
+id,equipamento_id,titulo,sintomas,causa_provavel,severidade,recorrencia
+FAL-F1-01,EQ-F1-01,Masseira não inicia,HMI ligada mas motor não parte,Intertravamento aberto ou emergência acionada,3,4
+FAL-F1-02,EQ-F1-02,Cilindro não liga,Máquina parada sem alarme aparente,Falta de fase ou falha no contator,3,2
+FAL-F2-01,EQ-F2-L1-EST1,Esteira parada,Sensor de presença bloqueado,Sujeira no sensor ou motor travado,2,3
+FAL-F2-02,EQ-F2-L2-EMB1,Embaladeira emperrada,Sensor de saída acionado continuamente,Atolamento mecânico na esteira de saída,2,4
+FAL-F2-03,EQ-F2-L3-DET,Detector de metais falhando,Alarme falso durante passagem de produto,Sensor contaminado ou mal aterramento,4,3
+FAL-F3-01,EQ-F3-L4-DET,Detector de metais F3-L4 com erro,Sinal sonoro intermitente,Cabeçote de leitura sujo ou umidade interna,4,2
+FAL-F3-02,EQ-F3-L5-EMB1,Embaladeira não aquece,Resistências frias e sem alarme,SSR queimado ou termopar danificado,5,3
+FAL-F3-03,EQ-F3-L6-EST1,Esteira 1 F3-L6 travada,Motor aquece e não gira,Redutor travado ou corrente rompida,3,3
+FAL-F3-04,EQ-F3-L7-ROBO,Robô paletizador fora de posição,Braço travado na base,Sensor de referência não lido ou erro de encoder,4,2

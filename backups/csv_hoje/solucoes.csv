@@ -1,0 +1,13 @@
+id,falha_id,passo,descricao,sucesso
+SOL-F1-01-1,FAL-F1-01,1,Verificar se o botão de emergência está pressionado e resetar,1
+SOL-F1-01-2,FAL-F1-01,2,Checar micro de porta ou intertravamento de grade,1
+SOL-F1-01-3,FAL-F1-01,3,Verificar se há 3 fases no contator principal,1
+SOL-F1-02-1,FAL-F1-02,1,Inspecionar disjuntor e fusíveis do painel,1
+SOL-F1-02-2,FAL-F1-02,2,Testar contator e substituí-lo se necessário,1
+SOL-F2-01-1,FAL-F2-01,1,Limpar sensor de presença e ajustar posição,1
+SOL-F2-02-1,FAL-F2-02,1,Limpar esteira e remover produto travado,1
+SOL-F2-03-1,FAL-F2-03,1,Limpar cabeçote e verificar aterramento do detector,1
+SOL-F3-01-1,FAL-F3-01,1,Secar cabeçote e inspecionar vedação,1
+SOL-F3-02-1,FAL-F3-02,1,Verificar tensão nas resistências e trocar SSR,1
+SOL-F3-03-1,FAL-F3-03,1,Lubrificar redutor e substituir corrente,1
+SOL-F3-04-1,FAL-F3-04,1,Executar homing do robô e calibrar sensor de referência,1
