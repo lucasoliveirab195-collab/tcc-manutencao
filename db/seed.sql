@@ -1,0 +1,1 @@
+-- Arquivo limpo: os dados agora vêm apenas dos arquivos CSV.
